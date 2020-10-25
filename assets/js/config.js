@@ -25,3 +25,5 @@ CONFIG = {
     // Default Toast dismissal time
     toastSpeed: 4000
 };
+
+follower.track("play_me")
